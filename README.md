@@ -17,7 +17,7 @@
   <img align="center" alt="livia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="livia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="livia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/edd0beb5e4c7ccc4d4123bf4aef6eb29.gif">
+  <img align="right" alt="livia-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/edd0beb5e4c7ccc4d4123bf4aef6eb29.gif">
 </div>
   
 ##
