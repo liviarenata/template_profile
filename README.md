@@ -4,7 +4,7 @@
 - 🌱 Estudante de Sistemas de Informação(3º Semestre) na Universidade de Franca - Unifran
 - 📖 Estudando Python, HTML5, CSS3, Redes e Flask
 - 💼 Aberta para novas oportunidades de emprego/estágio
-- 📫 Contate-me pelo e-mail: liviarenatacorreia12@gmail.com
+- 📫 Contate-me pelo e-mail: liviarenataoliveira12@gmail.com
 - 😄 Pronomes: Ela/Dela
 ##
 <div align="center">
