@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente na Prefeitura de Franca como Suporte de Helpdesk
 - 🌱 Estudante de Sistemas de Informação(3º Semestre) na Universidade de Franca - Unifran
-- 📖 Estudando Python, HTML5, CSS3, Redes e Flask
+- 📖 Estudando Python, HTML5, CSS3, Flask e Linux
 - 💼 Aberta para novas oportunidades de emprego/estágio
 - 📫 Contate-me pelo e-mail: liviarenataoliveira12@gmail.com
 - 😄 Pronomes: Ela/Dela
