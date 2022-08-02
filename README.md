@@ -1,8 +1,8 @@
 ### Olá! Sou a Lívia e seja bem-vindo(a) ao meu perfil 🙂
 
-- 🔭 Trabalho atualmente na Prefeitura de Franca como Suporte de Helpdesk
-- 🌱 Estudante de Sistemas de Informação(3º Semestre) na Universidade de Franca - Unifran
-- 📖 Estudando Python, HTML5, CSS3, Flask e Linux
+- 🔭 Trabalho atualmente na Prefeitura de Franca na área de Redes e Infraestrutura
+- 🌱 Estudante de Sistemas de Informação(4º Semestre) na Universidade de Franca - Unifran
+- 📖 Estudando Python, Linux, Docker e Kubernetes
 - 💼 Aberta para novas oportunidades de emprego/estágio
 - 📫 Contate-me pelo e-mail: liviarenataoliveira12@gmail.com
 - 😄 Pronomes: Ela/Dela
