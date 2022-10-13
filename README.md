@@ -1,10 +1,9 @@
 ### Olá! Sou a Lívia e seja bem-vindo(a) ao meu perfil 🙂
 
-- 🔭 Trabalho atualmente na Prefeitura de Franca na área de Redes e Infraestrutura
+- 🔭 Trabalho atualmente na Sys3 como Analista de Cloud
 - 🌱 Estudante de Sistemas de Informação(4º Semestre) na Universidade de Franca - Unifran
-- 📖 Estudando Python, Linux, Docker e Kubernetes
-- 💼 Aberta para novas oportunidades de emprego/estágio
-- 📫 Contate-me pelo e-mail: liviarenataoliveira12@gmail.com
+- 📖 Estudando Python, Linux, Docker, Kubernetes e AWS
+- 📫 Contate-me pelo e-mail: liviarenataoliveira@gmail.com
 - 😄 Pronomes: Ela/Dela
 ##
 <div align="center">
