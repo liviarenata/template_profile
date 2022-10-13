@@ -3,7 +3,7 @@
 - 🔭 Trabalho atualmente na Sys3 Tecnologia como Analista de Cloud
 - 🌱 Estudante de Sistemas de Informação(4º Semestre) na Universidade de Franca - Unifran
 - 📖 Estudando Python, Linux, Docker, Kubernetes e AWS
-- 📫 Contate-me pelo e-mail: liviarenataoliveira@gmail.com
+- 📫 Contate-me pelo e-mail: liviarenataoliveira12@gmail.com
 - 😄 Pronomes: Ela/Dela
 ##
 <div align="center">
@@ -23,7 +23,7 @@
   
 <div> 
   <a href="https://www.instagram.com/liviarenata_correia/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:liviarenataoliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:liviarenataoliveira12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/l%C3%ADvia-renata-179582196/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
