@@ -1,6 +1,6 @@
 ### Olá! Sou a Lívia e seja bem-vindo(a) ao meu perfil 🙂
 
-- 🔭 Trabalho atualmente na Sys3 como Analista de Cloud
+- 🔭 Trabalho atualmente na Sys3 Tecnologia como Analista de Cloud
 - 🌱 Estudante de Sistemas de Informação(4º Semestre) na Universidade de Franca - Unifran
 - 📖 Estudando Python, Linux, Docker, Kubernetes e AWS
 - 📫 Contate-me pelo e-mail: liviarenataoliveira@gmail.com
