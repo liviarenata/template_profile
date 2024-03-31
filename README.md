@@ -1,8 +1,7 @@
 ### Olá! Sou a Lívia e seja bem-vindo(a) ao meu perfil 🙂
 
-- 🔭 Aberta a propostas
-- 🌱 Estudante de Sistemas de Informação(6º Semestre) na Universidade de Franca - Unifran
-- 📖 Estudando Python, Linux, AWS e BigData
+- 🌱 Estudante de Sistemas de Informação(7º Semestre) na Universidade de Franca - Unifran
+- 📖 Estudando Python, AWS e BigData
 - 📫 Contate-me pelo e-mail: liviarenataoliveira12@gmail.com
 - 😄 Pronomes: Ela/Dela
 ##
